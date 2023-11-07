@@ -1,0 +1,52 @@
+----------------------- Página inicial -------------
+
+    Explicando as funcões do Chat (Tipo um clique aqui para vizualizar o tutorial)
+    Local com criação de login/cadastro (No canto superior direito)
+
+
+    Na página inicial
+
+
+------------------------ Login ---------------------
+    
+    Login simples:
+        Permitir o usuário entrar anonimamente utilizando de um nome que ainda não foi reinvindicado.
+
+    Cadastro:
+        username;
+        senha;
+    Identificacão:
+        nome#id;
+------------------------ Personalização ------------
+
+    DarkMode / LightMode
+
+    Perfil:
+        Foto
+        Descrição
+
+
+------------------------ Chat ----------------------
+
+    Armazenamento de dados:
+        Armazenar as mensagens enviadas até por exemplo uma determinada quantidade.
+    
+    Identificar SPAM:
+        Repetição de mensagens, envio massivo de mensagens
+
+    Chats em Grupo:
+        Permitir a criação de conversas entre mais de duas pessoas.
+        
+
+
+------------------------ Youme ---------------------
+    "O Polvo";
+
+    50% de chance de responder caso haja um "?" no final da frase;
+    100% de chance de responder caso haja um "Youme" no início da frase;
+        cada resposta terá:
+            50% chance de ser "sim";
+            50% chance de ser "não";
+
+
+
